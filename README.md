@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou Eike Lennie Andrade Dias!
 
-<!--
-**eikelad/eikelad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia, com foco em Java e experiência em desenvolvimento de sistemas completos. Atualmente, trabalho com tecnologias e ferramentas que facilitam e aprimoram a segurança e desempenho de sistemas para o Corpo de Bombeiro Militar do Estado de Goiás.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+Aqui estão algumas das linguagens e ferramentas com as quais trabalho:
+
+<p align="left">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+---
+
+## 🛠️ Sobre Mim
+- 🎓 Pós-graduando em Arquitetura e Desenvolvimento de Sistemas com Ênfase em Padrões de Projeto pela Gran Pós.
+- 💼 Desenvolvedor Full Stack no Corpo de Bombeiro Militar do Estado de Goiás.
+- 🌐 Buscando oportunidades de colaborar em projetos que envolvem sistemas integrados e arquiteturas escaláveis.
+
+---
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eikelennie)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eikelennie@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eikelennieandradedias&show_icons=true&theme=radical" alt="Eike's GitHub stats"/>
+</p>
