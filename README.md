@@ -28,7 +28,7 @@ Aqui estão algumas das linguagens e ferramentas com as quais trabalho:
 
 ## 🛠️ Sobre Mim
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo IESB.
-- 🎓 Granduando em Ciência da Computação pelo GRAN.
+- 🎓 Graduando em Ciência da Computação pelo GRAN.
 - 🎓 Pós-graduando em Arquitetura e Desenvolvimento de Sistemas com Ênfase em Padrões de Projeto pela Gran Pós.
 - 💼 Desenvolvedor Full Stack.
 - 🌐 Buscando oportunidades de colaborar em projetos que envolvem sistemas integrados e arquiteturas escaláveis.
